@@ -166,9 +166,9 @@ h2:hover{
     cursor: pointer;
     color: var(--cyan);
 }
-.fm{
-    text-decoration: underline;
-}
 a{
     text-decoration: none;
+}
+.attribution{
+  color: white;
 }
